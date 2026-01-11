@@ -52,7 +52,7 @@ Certificate: https://www.mygreatlearning.com/certificate/ZIIWNTQB
 
 ✈️ **Capstone – Social Media Tourism (Feb 2022):** Modeled customer propensity to buy airline tickets based on social media behavior.  
 
-📂 **Other Projects:** Includes additional coursework projects completed during the program.  
+📂 **Additional Projects:** Includes additional coursework projects completed during the program.  
 
 ---
 
