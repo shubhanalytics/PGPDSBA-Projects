@@ -1,8 +1,4 @@
-Here’s your portfolio rewritten in **plain text with emojis for each project title** — clean and ready to paste directly into your README file:
-
----
-
-📊 PGPDSBA Projects – Analytics Portfolio  
+📊 ### PGPDSBA Projects – Analytics Portfolio  
 
 Welcome to my academic and professional portfolio in Data Science & Business Analytics.  
 
