@@ -62,8 +62,3 @@ https://eportfolio.mygreatlearning.com/shubhank-katarey
 
 ⭐ **If you find these projects useful, don’t forget to star the repository!**  
 
----
-
-This version has **bold headers and titles**, proper spacing, and emojis for visual appeal — perfect for a polished GitHub README.  
-
-👉 Do you want me to also format the **Tech Stack** section into a neat table for even better readability?
