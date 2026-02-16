@@ -1,0 +1,38 @@
+SUMMARY AND OBSERVATIONS:
+
+High School educated people has claimed most. While those with PhD degrees claimed very less.
+In the last 5 years also, those with the education level upto high school claimed their insurance most than others.
+
+SUV car owners claimed most in last 5 years and Panel Truck owners claimed lowest in last 5 years.
+In the line chart we have seen that the trend line shows that SUV owners took claims for their car insurance highest followed by Pick up cars. 
+But the current claim amount is lowest is case of Van.
+
+
+Female SUV owners are most frequently claimed the insurance for their cars than the Male SUV owners. Same in case of Sports Car.
+The maximum amount is claimed  by the occupation with Blue Collar and the minimum amount is claimed by Doctor.
+
+The dark colour (Blue collar) shows the higher claim amount in the last 5 years and light colour (Doctor) shows the 
+lowest claimed amount in the period of last 5 years. 
+
+Female and Male with Blue Collar occupation who has highest income claims most amongst all, but Managers and Lawyers claim insurance amount very less. 
+
+It can be clearly seen that Rural areas people does not claim much. 
+The most claims taken by SUV owners of Urban areas whose car is in Private use while the owner of Pick up cars which are for 
+commercial purpose claims most in urban areas. 
+
+Those who are married in urban areas with good income took claim for their car more frequently than those who are unmarried. 
+Rural areas people has less income and claimed less frequently.
+
+We can see that the worth of the Minivan is highest amongst all, but the claim isn't much.  
+While Pickup cars woth half of the Minivan Claims more than Minivan, Sports Car and Van. 
+
+
+In PRIVATE USE: Total Claimed amount for Minivan is highest followed by SUV car claimed amount. Lowest amount claimed by van.
+In COMMERCIAL USE: Pickup cars claimed most followed by .Panel Truck.
+
+Education and sum of Total Claimed Amount.  Color shows sum of Total Claimed Amount.  
+Size shows sum of Total Claimed Amount.  The marks are labeled by Education and sum of Total Claimed Amount.
+
+Bachelors has the highest total claimed amount.
+
+
