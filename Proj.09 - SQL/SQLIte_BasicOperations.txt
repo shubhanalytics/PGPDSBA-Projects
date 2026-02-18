@@ -1,0 +1,209 @@
+1. Using SELECT and FROM
+
+SELECT * FROM tracks;
+
+=================================================
+
+SELECT
+    trackid,
+    name,
+    composer,
+    unitprice
+FROM
+    tracks;
+=================================================
+
+SELECT
+    trackid,
+    name,
+    albumid,
+    mediatypeid,
+    genreid,
+    composer,
+    milliseconds,
+    bytes,
+    unitprice
+FROM
+    tracks;
+=================================================
+
+2. SQLite ORDER BY clause
+
+SELECT
+    name,
+    milliseconds, 
+        albumid
+FROM
+    tracks;
+
+=================================================
+
+SELECT
+    name,
+    milliseconds, 
+    albumid
+FROM
+    tracks
+ORDER BY
+    albumid ASC;
+=================================================
+SELECT 
+    TrackId, 
+    Name, 
+    Composer 
+FROM 
+   tracks
+ORDER BY 
+   Composer;
+=================================================
+
+SELECT 
+    TrackId, 
+    Name, 
+    Composer 
+FROM 
+    tracks
+ORDER BY 
+    Composer NULLS LAST;
+=================================================
+
+3. SQLite WHERE clause
+
+SELECT
+   name,
+   milliseconds,
+   bytes,
+   albumid
+FROM
+   tracks
+WHERE
+   albumid = 1;
+
+=================================================
+
+SELECT
+    name,
+    milliseconds,
+    bytes,
+    albumid
+FROM
+    tracks
+WHERE
+    albumid = 1
+AND milliseconds > 250000;
+
+=================================================
+
+4. SQLite BETWEEN
+
+SELECT
+    InvoiceId,
+    BillingAddress,
+    Total
+FROM
+    invoices
+WHERE
+    Total BETWEEN 14.91 and 18.86    
+ORDER BY
+    Total; 
+
+=================================================
+
+SELECT
+    InvoiceId,
+    BillingAddress,
+    Total
+FROM
+    invoices
+WHERE
+    Total NOT BETWEEN 1 and 20
+ORDER BY
+    Total; 
+
+=================================================
+
+5. SQLite LIKE operator
+
+SELECT
+    trackid,
+    name    
+FROM
+    tracks
+WHERE
+    name LIKE 'Wild%'
+
+=================================================
+
+SELECT
+    trackid,
+    name    
+FROM
+    tracks
+WHERE
+    name LIKE '%Wild%';
+=================================================
+
+6. SQLite INNER JOIN
+
+SELECT 
+    Title,
+    Name
+FROM 
+    albums
+INNER JOIN artists 
+    ON artists.ArtistId = albums.ArtistId;
+
+=================================================
+
+SELECT
+    Name, 
+    Title
+FROM
+    artists
+LEFT JOIN albums ON
+    artists.ArtistId = albums.ArtistId
+ORDER BY Name;
+
+=================================================
+
+SELECT
+    Name,
+    Title
+FROM
+    artists
+LEFT JOIN albums ON
+    artists.ArtistId = albums.ArtistId
+WHERE Title IS NULL   
+ORDER BY Name;
+   
+=================================================
+
+7. SQLite GROUP BY
+
+SELECT
+    albumid,
+    COUNT(trackid)
+FROM
+    tracks
+GROUP BY
+    albumid;
+
+=================================================
+
+SELECT
+    tracks.albumid,
+    title,
+    COUNT(trackid)
+FROM
+    tracks
+INNER JOIN albums ON albums.albumid = tracks.albumid
+GROUP BY
+    tracks.albumid
+HAVING COUNT(trackid) > 15;
+
+=================================================
+
+
+
+
+
