@@ -28,31 +28,66 @@ Certificate: https://www.mygreatlearning.com/certificate/ZIIWNTQB
 
 🚕 **Project 1 : Python for Data Analysis**
 
-**Uber Drive Analysis (Sep 2020):** Explored Uber trip data to uncover travel patterns and driver behavior.  
+- **Uber Drive Analysis (Sep 2020):** Explored Uber trip data to uncover travel patterns and driver behavior.  
 
-📊 **Statistical & Probabilistic Analysis (Apr 2021):** Applied probability and hypothesis testing to sales, survey, and manufacturing datasets.  
 
-🎓 **Salary & College Admissions Analysis (May 2021):** Used ANOVA and PCA to identify salary factors and reduce data dimensionality.  
+📊 **Project 2 : Statistics**
 
-🏦 **Bank Segmentation & Insurance Prediction (Jun 2021):** Clustered customers and predicted insurance claims using machine learning models.  
+- **Statistical & Probabilistic Analysis for Sales, Survey and Manufacturing (Apr 2021):** Applied probability and hypothesis testing to sales, survey, and manufacturing datasets.
+  
 
-💎 **Gems & Holiday Package Prediction (Aug 2021):** Built regression and classification models for pricing and customer targeting.  
+🎓 **Project 3 : Advanced Statistics**
 
-🗳️ **Election Exit Poll & Speech Analysis (Sep 2021):** Predicted voting outcomes and mined text from U.S. presidential speeches.  
+- **Salary & College Admissions Analysis (May 2021):** Used ANOVA and PCA to identify salary factors and reduce data dimensionality.
+  
 
-🍷 **Wine Sales Forecasting (Oct 2021):** Forecasted monthly wine sales using ARIMA, SARIMA, and other time‑series models.  
+🏦 **Project 4 : Data Mining**
 
-📈 **Insurance Claims Visualization (Nov 2021):** Designed interactive Tableau dashboards for executive insights on claims data.  
+- **Bank Segmentation & Insurance Prediction (Jun 2021):** Clustered customers and predicted insurance claims using machine learning models.
+  
 
-🛒 **Online Retail Orders Analysis (Nov 2021):** Queried SQL databases to analyze order management and operational efficiency.  
+💎 **Project 5 : Predictive Modeling**
 
-🔧 **Automobile Parts Buying Patterns (Dec 2021):** Applied RFM analysis to segment customers and recommend marketing strategies.  
+- **Gems & Holiday Package Prediction (Aug 2021):** Built regression and classification models for pricing and customer targeting.
+  
 
-🥦 **Grocery Store Revenue Optimization (Dec 2021):** Conducted market basket analysis to suggest combo offers and discounts.  
+🗳️ **Project 6 : Machine Learning**
 
-💳 **Credit Risk Default Model (Jan 2022):** Predicted loan defaults among Indian companies using credit risk analytics.  
+- **Election Exit Poll & Speech Analysis (Sep 2021):** Predicted voting outcomes and mined text from U.S. presidential speeches.  
 
-✈️ **Capstone – Social Media Tourism (Feb 2022):** Modeled customer propensity to buy airline tickets based on social media behavior.  
+🍷 **Project 7 : Time Series Analysis**
+
+- **Wine Sales Forecasting (Oct 2021):** Forecasted monthly wine sales using ARIMA, SARIMA, and other time‑series models.
+   
+
+📈 **Project 8 : Data Visualization**
+
+- **Insurance Claims Visualization (Nov 2021):** Designed interactive Tableau dashboards for executive insights on claims data.
+  
+
+🛒 **Project 9 : SQL**
+
+- **Online Retail Orders Analysis (Nov 2021):** Queried SQL databases to analyze order management and operational efficiency.
+  
+
+🔧 **Project 10 : Marketing and Retail Analytics**
+
+- **Automobile Parts Buying Patterns (Dec 2021):** Applied RFM analysis to segment customers and recommend marketing strategies.
+  
+
+🥦 **Project 11: Marketing and Reatil Analytics Using Market Basket Analysis**
+
+- **Grocery Store Revenue Optimization (Dec 2021):** Conducted market basket analysis to suggest combo offers and discounts.
+   
+
+💳 **Project 12 : Finance and Risk Analytics**
+
+- **Credit Risk Default Model (Jan 2022):** Predicted loan defaults among Indian companies using credit risk analytics.
+ 
+
+✈️ **Project 13 : Capstone Project - End to End Analysis**
+
+- **Social Media Tourism (Feb 2022):** Modeled customer propensity to buy airline tickets based on social media behavior.  
 
 
 ---
