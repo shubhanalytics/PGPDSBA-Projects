@@ -27,6 +27,7 @@ Certificate: https://www.mygreatlearning.com/certificate/ZIIWNTQB
 **📂 Projects (One‑Line Summaries)**  
 
 🚕 **Project 1 : Python for Data Analysis**
+
 **Uber Drive Analysis (Sep 2020):** Explored Uber trip data to uncover travel patterns and driver behavior.  
 
 📊 **Statistical & Probabilistic Analysis (Apr 2021):** Applied probability and hypothesis testing to sales, survey, and manufacturing datasets.  
