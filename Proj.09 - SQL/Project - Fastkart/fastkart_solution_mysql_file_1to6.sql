@@ -1,4 +1,4 @@
---1. List top 3 products based on QuantityAvailable. (ProductId, ProductName, QuantityAvailable)
+-- 1. List top 3 products based on QuantityAvailable. (ProductId, ProductName, QuantityAvailable)
 
 SELECT ProductId, ProductName, QuantityAvailable 
 FROM Products 
@@ -7,7 +7,7 @@ LIMIT 3;
 
 -------------------------------------------
 
---2.Display EmailId of those customers who have done more than 10 purchases. (EmailId, Total_Transactions)
+-- 2.Display EmailId of those customers who have done more than 10 purchases. (EmailId, Total_Transactions)
 
 SELECT EmailId, count(QuantityPurchased) as Total_Transactions
 FROM PurchaseDetails
@@ -16,7 +16,7 @@ HAVING count(QuantityPurchased) > 10
 
 -------------------------------------------
 
---3. List the total QuantityAvailable category wise in descending order. (Name of the category, QuantityAvailable)
+-- 3. List the total QuantityAvailable category wise in descending order. (Name of the category, QuantityAvailable)
 
 SELECT CategoryName, SUM(QuantityAvailable) as Total_Quantity_Available
 FROM Products
@@ -27,7 +27,7 @@ ORDER BY sum(QuantityAvailable) DESC;
 
 ----------------------------------------------
 
---4. Display ProductId, ProductName, CategoryName, Total_Purchased_Quantity for the product which has been sold maximum in terms of quantity.
+-- 4. Display ProductId, ProductName, CategoryName, Total_Purchased_Quantity for the product which has been sold maximum in terms of quantity.
 
 SELECT 
 	Products.ProductId, 
@@ -45,7 +45,7 @@ LIMIT 1;
 
 -----------------------------------------------
 
---5. Display the number of Male and Female Customers in Fastkart.
+-- 5. Display the number of Male and Female Customers in Fastkart.
 
 SELECT Gender, COUNT(RoleId) as Count_of_Customers 
 FROM Users
@@ -54,7 +54,7 @@ GROUP BY Gender;
 
 -----------------------------------------------
 
---6. Display ProductId, ProductName, Price and Item_Classes of all the products where item_classes are as follows:
+-- 6. Display ProductId, ProductName, Price and Item_Classes of all the products where item_classes are as follows:
 /*If the price of an item is less than 2000 then "Affordable",
   If the price of an item is in between 2000 and 50,000 then "High End Stuff",
   If the price of an item is more than 50,000 then "Luxury".*/

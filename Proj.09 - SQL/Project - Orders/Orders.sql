@@ -2,11 +2,9 @@
 #--  DDL for Table ADDRESS
 #-------------------------------------------------------
 
-
 #-- Change to other preferred database, if required
-DROP database
 
-IF EXISTS orders;
+DROP database IF EXISTS orders;
 
 CREATE database orders;
 
@@ -29,67 +27,77 @@ use orders;
 		PINCODE INT(6), 
 		COUNTRY VARCHAR(30)
    ) ;
+   
+
 #-------------------------------------------------------
 #--  DDL for Table CARTON
 #-------------------------------------------------------
 
   CREATE TABLE CARTON 
-   (	CARTON_ID INT(6), 
-		LEN BIGINT(10), 
-		WIDTH BIGINT(10),
-		HEIGHT BIGINT(10)
+   (	CARTON_ID INT, 
+		LEN BIGINT, 
+		WIDTH BIGINT,
+		HEIGHT BIGINT
    ) ;
+   
+
 #-------------------------------------------------------
 #--  DDL for Table ONLINE_CUSTOMER
 #-------------------------------------------------------
 
   CREATE TABLE ONLINE_CUSTOMER 
-   (	CUSTOMER_ID INT(6), 
+   (	CUSTOMER_ID INT, 
 		CUSTOMER_FNAME VARCHAR(20), 
 		CUSTOMER_LNAME VARCHAR(20), 
 		CUSTOMER_EMAIL VARCHAR(30), 
-		CUSTOMER_PHONE BIGINT(10), 
-		ADDRESS_ID INT(6), 
+		CUSTOMER_PHONE BIGINT, 
+		ADDRESS_ID INT, 
 		CUSTOMER_CREATION_DATE DATE, 
 		CUSTOMER_USERNAME VARCHAR(20), 
 		CUSTOMER_GENDER CHAR(1)
    ) ;
+
+
 #-------------------------------------------------------
 #--  DDL for Table ORDER_HEADER
 #-------------------------------------------------------
 
   CREATE TABLE ORDER_HEADER 
-   (	ORDER_ID INT(6), 
-		CUSTOMER_ID INT(6), 
+   (	ORDER_ID INT, 
+		CUSTOMER_ID INT, 
 		ORDER_DATE DATE, 
 		ORDER_STATUS VARCHAR(10), 
 		PAYMENT_MODE VARCHAR(20), 
 		PAYMENT_DATE DATE, 
 		ORDER_SHIPMENT_DATE DATE, 
-		SHIPPER_ID INT(6)
+		SHIPPER_ID INT
    ) ;
+
+
 #-------------------------------------------------------
 #--  DDL for Table ORDER_ITEMS
 #-------------------------------------------------------
 
   CREATE TABLE ORDER_ITEMS 
-   (	ORDER_ID INT(6), 
-		PRODUCT_ID INT(6), 
-		PRODUCT_QUANTITY INT(3)
+   (	ORDER_ID INT, 
+		PRODUCT_ID INT, 
+		PRODUCT_QUANTITY INT
    ) ;
+   
+
 #-------------------------------------------------------
 #--  DDL for Table PRODUCT
 #-------------------------------------------------------
 
   CREATE TABLE PRODUCT 
-   (	PRODUCT_ID INT(6), 
+   (	PRODUCT_ID INT, 
 		PRODUCT_DESC VARCHAR(60), 
-		PRODUCT_CLASS_CODE INT(4), 
+		PRODUCT_CLASS_CODE INT, 
 		PRODUCT_PRICE DECIMAL(12,2), 
-		PRODUCT_QUANTITY_AVAIL INT(4), 
-		LEN INT(5), 
-		WIDTH INT(5), 
-		HEIGHT INT(5), 
+		PRODUCT_QUANTITY_AVAIL INT, 
+		LEN INT, 
+		WIDTH INT, 
+		HEIGHT INT, 
 		WEIGHT DECIMAL(10,4)
    ) ;
 #-------------------------------------------------------
@@ -97,7 +105,7 @@ use orders;
 #-------------------------------------------------------
 
   CREATE TABLE PRODUCT_CLASS 
-   (	PRODUCT_CLASS_CODE INT(4), 
+   (	PRODUCT_CLASS_CODE INT, 
 		PRODUCT_CLASS_DESC VARCHAR(40)
    ) ;
 #-------------------------------------------------------
@@ -105,11 +113,12 @@ use orders;
 #-------------------------------------------------------
 
   CREATE TABLE SHIPPER 
-   (	SHIPPER_ID INT(6), 
+   (	SHIPPER_ID INT, 
 		SHIPPER_NAME VARCHAR(30), 
-		SHIPPER_PHONE BIGINT(12), 
-		SHIPPER_ADDRESS INT(6)
+		SHIPPER_PHONE BIGINT, 
+		SHIPPER_ADDRESS INT
    ) ;
+
 
 # INSERTING into ADDRESS
 
@@ -669,3 +678,4 @@ where order_shipment_date is not null;
 
   CREATE UNIQUE INDEX PK_SHIP_ID ON SHIPPER (SHIPPER_ID) 
   ;
+  
