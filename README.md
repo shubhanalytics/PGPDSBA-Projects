@@ -24,7 +24,7 @@ Certificate: https://www.mygreatlearning.com/certificate/ZIIWNTQB
 
 ---
 
-**📂 Projects (One‑Line Summaries)**  
+**📂 Projects: **  
 
 🚕 **Project 1 : Python for Data Analysis**
 
