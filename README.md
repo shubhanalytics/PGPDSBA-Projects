@@ -94,8 +94,8 @@ Certificate: https://www.mygreatlearning.com/certificate/ZIIWNTQB
 
 **📬 Contact**  
 
-**Author:** Shubhank Katarey  
-**Email:** shubhank.katarey@outlook.com  
+**Author:** Shubhank K.  
+**Email:** shubhank.ky@gmail.com  
 **Twitter:** https://x.com/shubhanalytics  
 **LinkedIn:** https://www.linkedin.com/in/shubhanalytics/  
 **Webfolio:** https://tinyurl.com/skwebb
