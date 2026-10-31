@@ -1,12 +1,12 @@
 
-**📊 PGPDSBA Projects – Analytics Portfolio**  
+## **📊 PGPDSBA Projects – Analytics Portfolio**  
 
-Welcome to my academic and professional portfolio in **Data Science & Business Analytics**.  
+### Welcome to my academic and professional portfolio in **Data Science & Business Analytics**.  
 
 This repository showcases projects completed during my **Postgraduate Program at Great Lakes (Feb 2021 – Jul 2022)**. 
 
-About the Program:
-Post Graduate Program in Data Science and Business Analytics:
+### About the Program:
+#### Post Graduate Program in Data Science and Business Analytics:
 Offered by the McCombs School of Business at The University of Texas at Austin, in collaboration with Great Learning. This intensive program ran from February 2021 to July 2022. It focused on developing advanced analytical skills through hands-on projects, statistical modeling, machine learning, and business strategy, preparing participants for data-driven decision-making in real-world environments.
 
 E‑Portfolio: https://eportfolio.mygreatlearning.com/shubhank-katarey
