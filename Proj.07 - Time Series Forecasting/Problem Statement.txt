@@ -1,0 +1,9 @@
+Problem Statement:
+
+For this particular assignment, the data Of different types Of wine sales in the 20th century is to be
+analysed. Both Of these data are from the same company but of different wines. As an analyst in the
+ABC Estate Wines, you are tasked to analyse and forecast Wine Sales in the 20th century.
+
+There are 2 different datasets:
+1. Sparkling Wine Dataset
+2. Rose Wine dataset
