@@ -1,0 +1,31 @@
+There are 2 Problem Statements given to be solved:
+
+1. Salary Data - (Salary Dataset Used) :
+
+Problem 1A: 
+Problem Statement: 
+Salary is hypothesized to depend on educational qualification and occupation. To understand the 
+dependency, the salaries of 40 individuals [SalaryData.csv] are collected and each person’s 
+educational qualification and occupation are noted. Educational qualification is at three levels, High 
+school graduate, Bachelor, and Doctorate. Occupation is at four levels, Administrative and clerical, 
+Sales, Professional or specialty, and Executive or managerial. A different number of observations 
+are in each level of education – occupation combination. 
+[Assume that the data follows a normal distribution. In reality, the normality assumption may not 
+always hold if the sample size is small.]
+
+
+Problem 1B:
+Problem Statement:
+What is the interaction between two treatments? Analyze the effects of one variable on the other 
+(Education and Occupation) with the help of an interaction plot.[hint: use the ‘point plot’ function 
+from the ‘seaborn’ function] 
+
+---------------------------------------------------------------------------------------------------------------
+
+2. Education Post 12th Standard - (Education Post 12th Standard Dataset Used):
+Problem 2: 
+The dataset Education - Post 12th Standard.csv contains information on various 
+colleges. You are expected to do a Principal Component Analysis for this case 
+study according to the instructions given. The data dictionary of the 'Education - 
+Post 12th Standard.csv' can be found in the following file: Data Dictionary.xlsx. 
+
