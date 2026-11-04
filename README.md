@@ -28,79 +28,29 @@ Techniques: Regression, Classification, Clustering, Time-Series Forecasting, Tex
 
 🚕 Project 1 : Python for Data Analysis
 
-- Uber Drive Analysis (Sep 2020): Explored Uber trip data to uncover travel patterns and driver behavior.  
+📊 Project 2 : Statistics  
 
-
-📊 Project 2 : Statistics
-
-- Statistical & Probabilistic Analysis for Sales, Survey and Manufacturing (Apr 2021): Applied probability and hypothesis testing to sales, survey, and manufacturing datasets.
-  
-
-🎓 Project 3 : Advanced Statistics
-
-- Salary & College Admissions Analysis (May 2021): Used ANOVA and PCA to identify salary factors and reduce data dimensionality.
-  
+🎓 Project 3 : Advanced Statistics  
 
 🏦 Project 4 : Data Mining
 
-- Bank Segmentation & Insurance Prediction (Jun 2021): Clustered customers and predicted insurance claims using machine learning models.
-  
-
-💎 Project 5 : Predictive Modeling
-
-- Gems & Holiday Package Prediction (Aug 2021): Built regression and classification models for pricing and customer targeting.
-  
+💎 Project 5 : Predictive Modeling  
 
 🗳️ Project 6 : Machine Learning
 
-- Election Exit Poll & Speech Analysis (Sep 2021): Predicted voting outcomes and mined text from U.S. presidential speeches.  
+🍷 Project 7 : Time Series Analysis   
 
-🍷 Project 7 : Time Series Analysis
+📈 Project 8 : Data Visualization  
 
-- Wine Sales Forecasting (Oct 2021): Forecasted monthly wine sales using ARIMA, SARIMA, and other time‑series models.
-   
-
-📈 Project 8 : Data Visualization
-
-- Insurance Claims Visualization (Nov 2021): Designed interactive Tableau dashboards for executive insights on claims data.
-  
-
-🛒 Project 9 : SQL
-
-- Online Retail Orders Analysis (Nov 2021): Queried SQL databases to analyze order management and operational efficiency.
-  
+🛒 Project 9 : SQL 
 
 🔧 Project 10 : Marketing and Retail Analytics
 
-- Automobile Parts Buying Patterns (Dec 2021): Applied RFM analysis to segment customers and recommend marketing strategies.
-  
-
 🥦 Project 11: Marketing and Reatil Analytics Using Market Basket Analysis
-
-- Grocery Store Revenue Optimization (Dec 2021): Conducted market basket analysis to suggest combo offers and discounts.
-   
 
 💳 Project 12 : Finance and Risk Analytics
 
-- Credit Risk Default Model (Jan 2022): Predicted loan defaults among Indian companies using credit risk analytics.
- 
-
 ✈️ Project 13 : Capstone Project - End to End Analysis
-
-- Social Media Tourism (Feb 2022): Modeled customer propensity to buy airline tickets based on social media behavior.  
-
-
 ---
-
-### 📬 Contact: 
-
-Author: Shubhank K.  
-Email: shubhank.ky@gmail.com  
-Twitter: https://x.com/shubhanalytics  
-LinkedIn: https://www.linkedin.com/in/shubhanalytics/  
-Webfolio: https://tinyurl.com/skwebb
-
----
-
 ⭐ If you find these projects useful, don’t forget to star the repository!  
 
