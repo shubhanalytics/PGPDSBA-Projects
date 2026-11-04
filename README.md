@@ -1,5 +1,5 @@
 
-## 📊 PGPDSBA Projects – Analytics Portfolio 
+## 📊 Analytics Projects – Portfolio 
 
 ### Welcome to my academic and professional portfolio in Data Science & Business Analytics.  
 
