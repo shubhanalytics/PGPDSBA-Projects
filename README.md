@@ -1,9 +1,5 @@
 
-## 📊 Analytics Projects – Portfolio 
-
-### Welcome to my academic and professional portfolio in Data Science & Business Analytics.  
-
-This repository showcases projects completed during my Postgraduate Program at Great Lakes (Feb 2021 – Jul 2022). 
+## This repository showcases projects completed during my Postgraduate Program at Great Lakes (Feb 2021 – Jul 2022). 
 
 ### About the Program:
 #### Post Graduate Program in Data Science and Business Analytics:
