@@ -1,4 +1,4 @@
-## Project 13: Social Media Tourism
+## Social Media Tourism
 
 ### Description:
 An aviation company that provides domestic as well as international trips to the customers now wants to apply a targeted approach instead of reaching out to each of the customers. Hence they have collaborated with a social networking platform, so they can learn the digital and social behavior of the customers and provide the digital advertisement on the user page of the targeted customers who have a high propensity to take up the product.
