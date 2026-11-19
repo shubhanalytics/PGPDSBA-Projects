@@ -47,6 +47,7 @@ Techniques: Regression, Classification, Clustering, Time-Series Forecasting, Tex
 💳 Project 12 : Finance and Risk Analytics
 
 ✈️ Project 13 : Capstone Project - End to End Analysis
+
 ---
 ⭐ If you find these projects useful, don’t forget to star the repository!  
 
